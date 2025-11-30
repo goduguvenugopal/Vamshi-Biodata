@@ -21,7 +21,7 @@ export const biodata = {
 
     contact: {
       phone: "9652496010",
-      address: "Anjaneyanagar, Pagidyala (Mandal), Kurnool Andhra Pradesh 518413",
+      address: "Anjaneyanagar, Pagidyala (Mandal), Kurnool Andhra Pradesh 518412",
     },
 
     images: [
@@ -55,7 +55,7 @@ export const biodata = {
 
     contact: {
       phone: "9652496010",
-      address: "అంజనేయనగర్, పగిడ్యాల మండలం, కర్నూలు, ఆంధ్రప్రదేశ్ 518413",
+      address: "అంజనేయనగర్, పగిడ్యాల మండలం, కర్నూలు, ఆంధ్రప్రదేశ్ 518412",
     },
 
     images: [
